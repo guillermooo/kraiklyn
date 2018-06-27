@@ -80,6 +80,7 @@ html, body {
 
 .site-title {
   margin-top: 0px;
+  font-size: 1.5em;
 }
 
 .sidebar a,
@@ -100,7 +101,7 @@ html, body {
 
 .sidebar ul li {
   list-style: none;
-  padding-left: 2em;
+  padding-left: 0.6em;
 }
 
 nav {
@@ -185,13 +186,13 @@ section.page {
 }
 
 section.page h1 {
-  border-left: 3px solid #363636;
-  padding-left: 0.5em;
+  /*border-left: 3px solid #363636;*/
+  /*padding-left: 0.5em;*/
   margin-bottom: 0;
 }
 
 section.page .content {
-  margin-left: 0.5em;
+  margin-left: 0.0em;
 }
 
 section.page h1 a,
